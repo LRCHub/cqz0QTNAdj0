@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ロコローション",
+  "base_artist": "ORANGE RANGE",
+  "createdAt": "2025-12-26T15:14:52.487025Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ロコローション",
+      "artist": "Orange Range",
+      "has_synced": true,
+      "path": "select/01_ロコローション_Orange_Range.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ロコローション",
+      "artist": "ORANGE RANGE",
+      "has_synced": false,
+      "path": "select/pl_01_ロコローション_ORANGE_RANGE.txt"
+    }
+  ]
+}
